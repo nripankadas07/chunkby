@@ -7,7 +7,7 @@ Iterator helpers for Python 3.10+. Zero dependencies.
 ## Install
 
 ```bash
-pip install chunkby
+python -m pip install -e .
 ```
 
 ## Quick start
